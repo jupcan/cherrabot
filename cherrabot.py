@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler
 from engine import get_random_quote
 
 # Your bot token (from BotFather)
-token = "506816949:AAGVi6TDL8W2MZDe4-pft1vhZXfpDQhETFA"
+token = "token"
 
 def start(bot, update):
 	bot.sendMessage(chat_id=update.message.chat_id, text=("Hi %s. Send me /quote command to get a random quote from "
