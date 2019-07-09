@@ -4,4 +4,4 @@ telegram bot with a friends' spoken quotes database currently deployed at amazon
 
 bot running on telegram, available at **@cherrabot**
 ![cherrabot](screenshots/bot.jpg) 
->:warning: based on [quotebot](https://github.com/dkhd/quotebot), credits to its author :warning:
+>:warning: disclaimer: based on [quotebot](https://github.com/dkhd/quotebot), credits to its author :warning:
